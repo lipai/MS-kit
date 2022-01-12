@@ -3,7 +3,8 @@
 A batch setting means setting properties for all structures in the given folder.  
 A batch export means export all structures in the given folder.  
 
-More versions can be downloaded from http://home.ustc.edu.cn/~lipai/tutorials/software.html#materials-studio-batch-setting-tool
+For this version, you firstly need to unzip the file PyQt5.zip and the executable file is ms_tool.exe
+More versions (recommended) can be downloaded from http://home.ustc.edu.cn/~lipai/tutorials/software.html#materials-studio-batch-setting-tool
 
 <img src="https://user-images.githubusercontent.com/13411486/149045708-318c7318-65fd-4780-bd20-7338edc3044c.png" width="500"/>  
 
@@ -21,7 +22,7 @@ For both batch setting and export data, you need firstly input "Work Path".
 
 ## how to get "Work Path"
 <img src="https://user-images.githubusercontent.com/13411486/149046406-bf9863a6-dbbc-4dab-b227-589f226229c5.png" width="500"/>  
-<img src="https://user-images.githubusercontent.com/13411486/149046424-06d31112-b820-4538-b2b4-d1102b586778.png" width="500"/>  
+<img src="https://user-images.githubusercontent.com/13411486/149046424-06d31112-b820-4538-b2b4-d1102b586778.png" width="300"/>  
 Copy the "Location" path and paste into the "Work Path" textbox.  
 
 ## how to do batch setting
