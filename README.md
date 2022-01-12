@@ -3,7 +3,7 @@
 A batch setting means setting properties for all structures in the given folder.  
 A batch export means export all structures in the given folder.  
 
-For this version, you firstly need to unzip the file PyQt5.zip and the executable file is ms_tool.exe
+For this version, you firstly need to unzip the file PyQt5.zip and the executable file is ms_tool.exe  
 More versions (recommended) can be downloaded from http://home.ustc.edu.cn/~lipai/tutorials/software.html#materials-studio-batch-setting-tool
 
 <img src="https://user-images.githubusercontent.com/13411486/149045708-318c7318-65fd-4780-bd20-7338edc3044c.png" width="500"/>  
