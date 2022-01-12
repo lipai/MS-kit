@@ -5,7 +5,7 @@ A batch export means exporting all structures in the given folder.
 
 More versions can be downloaded from http://home.ustc.edu.cn/~lipai/tutorials/software.html#materials-studio-batch-setting-tool
 
-![image](https://user-images.githubusercontent.com/13411486/149045708-318c7318-65fd-4780-bd20-7338edc3044c.png)
+![image](https://user-images.githubusercontent.com/13411486/149045708-318c7318-65fd-4780-bd20-7338edc3044c.png =100)
 There are four parts in the panel.
 The top part highlighted with red circle is the "Work Path" which gives the Materials studio folder.
 The left part highlighted with blue square is batch setting part for setting the lattice, Atom style and background color.
