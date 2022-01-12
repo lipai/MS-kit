@@ -20,7 +20,7 @@ For both batch setting and export data, you need firstly input "Work Path".
 Copy the "Location" path and paste into the "Work Path" textbox.  
 
 ## how to do batch setting
-First, close all structure windows.
+First, close all structure windows.  
 <img src="https://user-images.githubusercontent.com/13411486/149046807-26c04a44-51f7-4447-a44c-a091dc7ce533.png" width="500"/>    
 Second, do the setting for Lattice/Atom, and click Apply.  
 For the "Element" in Atom setting, if the input text is "All", the atom setting will be applied onto all atoms.  
